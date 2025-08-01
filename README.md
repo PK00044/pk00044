@@ -26,8 +26,15 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/prathamkubq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prathamkubq" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pk00044&show_icons=true&locale=en&layout=compact" alt="pk00044" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pk00044&show_icons=true&locale=en" alt="pk00044" /></p>
+<!-- GitHub Stats - Side by Side -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pk00044&show_icons=true&locale=en&layout=compact" alt="My GitHub stats" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pk00044&" alt="pk00044" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=pk00044&show_icons=true&locale=en" alt="My streak" />
+</p>
+
+<!-- Streak Stats Centered Below -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pk00044&" alt="Top languages" />
+</p>
