@@ -6,7 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pk00044" alt="pk00044" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/prathamkubsad" target="blank"><img src="https://img.shields.io/twitter/follow/prathamkubsad?logo=twitter&style=for-the-badge" alt="prathamkubsad" /></a> </p>
-<img src="Vibing Good Night GIF by WUFFI.gif" alt="Coding GIF" width="50%" />
+<p align="center" width="100%">
+  <img src="Vibing Good Night GIF by WUFFI.gif" alt="Coding GIF" width="50%" />
+</p>
 
 - 🌱 I’m currently learning **Nextjs and**
 
