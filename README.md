@@ -10,7 +10,7 @@
   <img src="Vibing Good Night GIF by WUFFI.gif" alt="Coding GIF" width="50%" />
 </p>
 
-- 🌱 I’m currently learning **Nextjs and**
+- 🌱 I’m currently learning **Nextjs**
 
 - 📫 How to reach me **prathamkubsad@gmail.com**
 
